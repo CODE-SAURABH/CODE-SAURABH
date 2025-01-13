@@ -30,7 +30,7 @@
   <a href="https://www.leetcode.com/saurabh_patil_cse" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="[https://www.hackerearth.com/patil_saurabh_20" target="_blank](https://www.hackerearth.com/patil_saurabh_20" target="_blank">)">
+  <a href="https://www.hackerearth.com/patil_saurabh_20" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/saurabh_patil_21/profile" target="_blank">
